@@ -70,8 +70,7 @@ obfuscation key nor the obfuscated names, it should work on any version with mat
 
 This was initially made after the Akatsuki private server's patcher broke for multiple months and no alternative
 existed to fix the issues listed above. This project does not and never intends to bypass the
-anti-cheat built into osu! (to allow modifications), and for that reason this project is only usable when osu! is
-launched with a custom `-devserver` (for offline play, something like `-devserver example.com`).
+anti-cheat built into osu! (to allow modifications).
 
 I like improving the games I like (having submitted multiple PRs to osu!lazer as well), and given stable is essentially
 dead in terms of bug-fixes and features I decided to write a utility to make the game I like better.
