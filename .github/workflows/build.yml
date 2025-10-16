@@ -32,7 +32,7 @@ jobs:
           target: i686-pc-windows-msvc
 
       - name: Build
-        run: dotnet build Osu.Patcher.Injector
+        run: dotnet build Osu.Patcher.Injector -r win-x86
 
       - name: Upload Injector artifact
         uses: actions/upload-artifact@v4
